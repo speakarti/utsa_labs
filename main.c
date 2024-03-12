@@ -18,7 +18,7 @@
  */
 int main(int argc, char** argv) {
 
-    printf("hello");
+    printf("hello arti");
     return (EXIT_SUCCESS);
 }
 
